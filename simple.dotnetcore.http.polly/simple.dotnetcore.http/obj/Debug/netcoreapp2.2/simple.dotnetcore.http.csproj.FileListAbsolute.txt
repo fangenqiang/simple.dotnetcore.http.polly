@@ -1,0 +1,9 @@
+D:\我的文档\Documents\GitHub\simple.dotnetcore.http.polly\simple.dotnetcore.http.polly\simple.dotnetcore.http\bin\Debug\netcoreapp2.2\simple.dotnetcore.http.deps.json
+D:\我的文档\Documents\GitHub\simple.dotnetcore.http.polly\simple.dotnetcore.http.polly\simple.dotnetcore.http\bin\Debug\netcoreapp2.2\simple.dotnetcore.http.dll
+D:\我的文档\Documents\GitHub\simple.dotnetcore.http.polly\simple.dotnetcore.http.polly\simple.dotnetcore.http\obj\Debug\netcoreapp2.2\simple.dotnetcore.http.csprojAssemblyReference.cache
+D:\我的文档\Documents\GitHub\simple.dotnetcore.http.polly\simple.dotnetcore.http.polly\simple.dotnetcore.http\obj\Debug\netcoreapp2.2\simple.dotnetcore.http.csproj.CoreCompileInputs.cache
+D:\我的文档\Documents\GitHub\simple.dotnetcore.http.polly\simple.dotnetcore.http.polly\simple.dotnetcore.http\obj\Debug\netcoreapp2.2\simple.dotnetcore.http.AssemblyInfoInputs.cache
+D:\我的文档\Documents\GitHub\simple.dotnetcore.http.polly\simple.dotnetcore.http.polly\simple.dotnetcore.http\obj\Debug\netcoreapp2.2\simple.dotnetcore.http.AssemblyInfo.cs
+D:\我的文档\Documents\GitHub\simple.dotnetcore.http.polly\simple.dotnetcore.http.polly\simple.dotnetcore.http\bin\Debug\netcoreapp2.2\simple.dotnetcore.http.pdb
+D:\我的文档\Documents\GitHub\simple.dotnetcore.http.polly\simple.dotnetcore.http.polly\simple.dotnetcore.http\obj\Debug\netcoreapp2.2\simple.dotnetcore.http.dll
+D:\我的文档\Documents\GitHub\simple.dotnetcore.http.polly\simple.dotnetcore.http.polly\simple.dotnetcore.http\obj\Debug\netcoreapp2.2\simple.dotnetcore.http.pdb

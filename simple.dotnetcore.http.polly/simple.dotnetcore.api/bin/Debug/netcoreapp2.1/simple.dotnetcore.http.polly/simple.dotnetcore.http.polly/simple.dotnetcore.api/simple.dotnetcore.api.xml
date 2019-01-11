@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>simple.dotnetcore.api</name>
+    </assembly>
+    <members>
+        <member name="M:simple.dotnetcore.api.HttpClientFactory.IHttpClientService.PostAsJsonAsync``1(simple.dotnetcore.http.Priority.HttpClientPriority,System.String,System.Object,System.Net.Http.Headers.AuthenticationHeaderValue)">
+            <summary>
+            使用指定类型创建的 <see cref="T:System.Net.Http.HttpClient"/> 以异步的方式将 POST 请求发送到指定的 URI
+            </summary>
+            <typeparam name="TResponse">返回结果类型</typeparam>
+            <param name="priority"><see cref="T:System.Net.Http.HttpClient"/> 请求的关键程度</param>
+            <param name="requestUri">请求地址</param>
+            <param name="value">请求参数</param>
+            <param name="authorization">身份验证信息</param>
+            <returns>返回结果</returns>
+        </member>
+        <member name="M:simple.dotnetcore.api.HttpClientFactory.IHttpClientService.PostAsJsonAsync``1(System.String,System.String,System.Object,System.Net.Http.Headers.AuthenticationHeaderValue)">
+            <summary>
+            使用指定名称创建的 <see cref="T:System.Net.Http.HttpClient"/> 以异步的方式将 POST 请求发送到指定的 URI
+            </summary>
+            <typeparam name="TResponse">返回结果类型</typeparam>
+            <param name="name">用于创建 <see cref="T:System.Net.Http.HttpClient"/> 的名称</param>
+            <param name="requestUri">请求地址</param>
+            <param name="value">请求参数</param>
+            <param name="authorization">身份验证信息</param>
+            <returns>返回结果</returns>
+        </member>
+    </members>
+</doc>
